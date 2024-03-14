@@ -128,7 +128,7 @@
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/cli@~13.3.0":
+"@angular/cli@^13.3.11":
   "integrity" "sha512-LTuQ1wC/VJiHqHx8nYJCx0EJv1Ek7R6VvP/5vmr/+M8oVvJ2zSh/aIbcPg6BTL0YEfMI6nX41mUjPBUfF0q2OA=="
   "resolved" "https://registry.npmjs.org/@angular/cli/-/cli-13.3.11.tgz"
   "version" "13.3.11"
